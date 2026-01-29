@@ -1,0 +1,51 @@
+<!-- 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rudresh's Portfolio</title>
+</head>
+<body>
+
+    <h1>Rudresh's Portfolio</h1>
+    <h2>I'm a Web Developer</h2>
+
+    <hr />
+
+    <section>
+        <h3>
+            <a href="./public/movie-ranking.html">Movie Ranking Project</a>
+        </h3>
+        <img 
+            src="../4.3 HTML Porfolio Project/assets/images/Screenshot 2026-01-29 192232.png" 
+            alt="Screenshot of Movie Ranking Project"
+            height="200"
+        />
+    </section>
+
+    <section>
+        <h3>
+            <a href="./public/birthday-invite.html">Birthday Invite Project</a>
+        </h3>
+        <img 
+            src="../4.3 HTML Porfolio Project/assets/images/Screenshot 2026-01-29 192322.png" 
+            alt="Screenshot of Birthday Invite Project"
+            height="200"
+        />
+    </section>
+
+    <section>
+        <h3>
+            <a href="../4.3 HTML Porfolio Project/public/source-code.html">Source Code</a>
+        </h3>
+    </section>
+
+    <hr />
+
+    <a href="./public/about.html">About Me</a> |
+    <a href="./public/contact.html">Contact Me</a>
+
+</body>
+</html>
+-->
